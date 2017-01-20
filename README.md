@@ -1,4 +1,4 @@
-# CameraView [中文版](https://github.com/nanchen2251/CameraView/blob/master/README1.md)
+# CameraView
 CustomizeCameraView,autofocus,support customize the ui.
 
 This is not my work.just from team [google](https://github.com/google/cameraview)
@@ -77,3 +77,8 @@ dependencies {
 ```
 
 You can see a complete usage in the demo app.
+
+##my info
+    nanchen<br>
+    ChengDu SiChuan<br>
+    [blogs](http://www.cnblogs.com/liushilin/)
