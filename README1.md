@@ -77,3 +77,7 @@ dependencies {
 ```
 
 你也可以看到更多关于如何使用，在demo中。
+##关于作者
+    南尘<br>
+    四川成都<br>
+    [博客园](http://www.cnblogs.com/liushilin/)
