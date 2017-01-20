@@ -1,4 +1,4 @@
-# CameraView
+# CameraView  [英文版](https://github.com/nanchen2251/CameraView/blob/master/README.md)
 自定义相机，自动聚焦，只是一个自定义View，支持你自主替换UI，支持新老相机。
 这不是我自己写的项目，它来源于：[google](https://github.com/google/cameraview)
 
