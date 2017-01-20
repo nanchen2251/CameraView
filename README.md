@@ -3,9 +3,9 @@ CustomizeCameraView,autofocus,support customize the ui.
 
 This is not my work.just from team [google](https://github.com/google/cameraview)
 
-#####The reason why I was in the warehouse was because I wanted to make it easier for everyone to use it
+###The reason why I was in the warehouse was because I wanted to make it easier for everyone to use it
 
-#####At the same time I will follow up the development of their team,in order to bring you something better
+###At the same time I will follow up the development of their team,in order to bring you something better
 *This is a preview release. The API is subject to change.*
 
 This is not an official Google product.
@@ -21,6 +21,8 @@ Requires API Level 9. The library uses Camera 1 API on API Level 9-20 and Camera
 | 21-23     | Camera2    | TextureView  |
 | 24        | Camera2    | SurfaceView  |
 
+##You can find the preview gif
+![](https://github.com/nanchen2251/CameraView/blob/master/GIF.gif)
 ## Features
 
 - Camera preview by placing it in a layout XML (and calling the start method)
