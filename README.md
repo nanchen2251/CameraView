@@ -1,4 +1,4 @@
-# CameraView [中文版](https://github.com/nanchen2251/CameraView/edit/master/README1.md)
+# CameraView [中文版](https://github.com/nanchen2251/CameraView/blob/master/README2.md)
 CustomizeCameraView,autofocus,support customize the ui.
 
 This is not my work.just from team [google](https://github.com/google/cameraview)
